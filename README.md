@@ -1,2 +1,2 @@
 # projectdemo1
-it is my first program
+this is my first git respository
